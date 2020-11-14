@@ -3,6 +3,10 @@ DefaultContentLanguage = 'en'
 Language = 'en'
 title = 'PHYS52015 – Introduction to HPC'
 
+Host hamilton
+  Hostname hamilton.dur.ac.uk
+  User vthq16
+
 staticDir = ['static']
 disablePathToLower = false
 enableGitInfo = true
